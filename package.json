@@ -5,7 +5,7 @@
   "type": "module",
    "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/portfolio-js-goit-team10/",
+    "build": "vite build --base=/my-react-module-1/",
     "preview": "vite preview"
   },
   // "scripts": {
